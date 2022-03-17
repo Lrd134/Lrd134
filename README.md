@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lrd134
 - 👀 I’m interested in building and designing computer applications
-- 🌱 I’m currently learning web software engineering
+- 🌱 I’m currently a Full Stack Software Engineer
 - 💞️ I’m looking to collaborate on anything that isn't musical (wish I could)
 - 📫 How to reach me gaming.decoded.lar@gmail.com
 
